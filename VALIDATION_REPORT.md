@@ -1,0 +1,136 @@
+# Validation Report - ba-duan-jin-follow-along
+
+Generated: 2026-06-05T17:13:07.707073
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The History of Beginner Ba Duan Jin Follow Along: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Hidden Secrets of Beginner Ba Duan Jin Follow Along
+- ✓ Article word count OK: Beginner Ba Duan Jin Follow Along: Must-Read Insights and Reviews
+- ✓ Article word count OK: Why Advanced Beginner Ba Duan Jin Follow Along Techniques is Trending in 2026
+- ✓ Article word count OK: The Best Resources for Beginner Ba Duan Jin Follow Along: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Ba Duan Jin Follow Along: A Deep Dive
+- ✓ Article word count OK: Beginner Ba Duan Jin Follow Along in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Best Resources for The History of Beginner Ba Duan Jin Follow Along
+- ✓ Article word count OK: Beginner Ba Duan Jin Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Mastering Beginner Ba Duan Jin Follow Along for Beginners in Easy Steps
+- ✓ Article word count OK: Why You Need to Check Out Beginner Ba Duan Jin Follow Along
+- ✓ Article word count OK: Future of Beginner Ba Duan Jin Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Best Resources for Beginner Ba Duan Jin Follow Along Tips and Best Practices
+- ✓ Article word count OK: Mastering Future of Beginner Ba Duan Jin Follow Along in Easy Steps
+- ✓ Article word count OK: The Future of Beginner Ba Duan Jin Follow Along for Beginners: What to Expect
+- ✓ Article word count OK: The Future of Advanced Beginner Ba Duan Jin Follow Along Techniques: What to Expect
+- ✓ Article word count OK: Future of Beginner Ba Duan Jin Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Everything You Need to Know About Beginner Ba Duan Jin Follow Along Tips and Best Practices
+- ✓ Article word count OK: Advanced Ba Duan Jin Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Ultimate Guide to Advanced Ba Duan Jin Follow Along
+- ✓ Article word count OK: Advanced Advanced Ba Duan Jin Follow Along Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Ba Duan Jin Follow Along: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Essential Advanced Ba Duan Jin Follow Along Techniques You Should Know
+- ✓ Article word count OK: Advanced Ba Duan Jin Follow Along Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: Why You Need to Check Out Future of Advanced Ba Duan Jin Follow Along
+- ✓ Article word count OK: The Ultimate Guide to Advanced Ba Duan Jin Follow Along in 2026: Current Trends
+- ✓ Article word count OK: Common Mistakes in Advanced Ba Duan Jin Follow Along: Must-Read Insights and Reviews
+- ✓ Article word count OK: Proven Strategies for Advanced Advanced Ba Duan Jin Follow Along Techniques
+- ✓ Article word count OK: Future of Advanced Ba Duan Jin Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: Essential Advanced Ba Duan Jin Follow Along Tips and Best Practices Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for The History of Advanced Ba Duan Jin Follow Along
+- ✓ Article word count OK: Exploring the World of Advanced Ba Duan Jin Follow Along: Everything You Need to Know
+- ✓ Article word count OK: The Hidden Secrets of Advanced Ba Duan Jin Follow Along in 2026: Current Trends
+- ✓ Article word count OK: Advanced Advanced Ba Duan Jin Follow Along Techniques: From Beginner to Expert
+- ✓ Article word count OK: Exploring the World of The History of Advanced Ba Duan Jin Follow Along
+- ✓ Article word count OK: Essential Common Mistakes in Advanced Ba Duan Jin Follow Along Techniques You Should Know
+- ✓ Article word count OK: Mastering Future of Ba Duan Jin Follow Along Tips in Easy Steps
+- ✓ Article word count OK: Proven Strategies for Ba Duan Jin Follow Along Tips for Beginners
+- ✓ Article word count OK: Why Future of Ba Duan Jin Follow Along Tips is Trending in 2026
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Ba Duan Jin Follow Along Tips
+- ✓ Article word count OK: Exploring the World of Ba Duan Jin Follow Along Tips Tips and Best Practices
+- ✓ Article word count OK: Unlock Your Future of Ba Duan Jin Follow Along Tips Potential Now!
+- ✓ Article word count OK: Everything You Need to Know About Ba Duan Jin Follow Along Tips
+- ✓ Article word count OK: The Future of Future of Ba Duan Jin Follow Along Tips: What to Expect
+- ✓ Article word count OK: The Ultimate Guide to Ba Duan Jin Follow Along Tips
+- ✓ Article word count OK: Why Future of Ba Duan Jin Follow Along Tips is Trending in 2026
+- ✓ Article word count OK: Essential Ba Duan Jin Follow Along Tips Tips and Best Practices Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for Ba Duan Jin Follow Along Tips for Beginners
+- ✓ Article word count OK: The Future of Ba Duan Jin Follow Along Tips for Beginners: What to Expect
+- ✓ Article word count OK: Essential Ba Duan Jin Follow Along Tips for Beginners Techniques You Should Know
+- ✓ Article word count OK: Ba Duan Jin Follow Along Tips: From Beginner to Expert
+- ✓ Article word count OK: Ba Duan Jin Follow Along Tips Tips and Best Practices 101: Complete Beginner's Guide
+- ✓ Article word count OK: Future of Ba Duan Jin Follow Along Tips: From Beginner to Expert
+- ✓ Article word count OK: Exploring the World of Ba Duan Jin Follow Along Tips Tips and Best Practices
+- ✓ Article word count OK: Everything You Need to Know About Future of Ba Duan Jin Follow Along History
+- ✓ Article word count OK: The Ultimate Guide to Future of Ba Duan Jin Follow Along History
+- ✓ Article word count OK: Why You Need to Check Out Ba Duan Jin Follow Along History
+- ✓ Article word count OK: Advanced Ba Duan Jin Follow Along History Techniques: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Hidden Secrets of Ba Duan Jin Follow Along History for Beginners
+- ✓ Article word count OK: Essential Ba Duan Jin Follow Along History for Beginners Techniques You Should Know
+- ✓ Article word count OK: The Future of Ba Duan Jin Follow Along History: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: Mastering Ba Duan Jin Follow Along History in 2026: Current Trends in Easy Steps
+- ✓ Article word count OK: The Best Resources for Ba Duan Jin Follow Along History for Beginners
+- ✓ Article word count OK: The Best Resources for Common Mistakes in Ba Duan Jin Follow Along History
+- ✓ Article word count OK: Ba Duan Jin Follow Along History: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Future of Ba Duan Jin Follow Along History: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Mastering Future of Ba Duan Jin Follow Along History in Easy Steps
+- ✓ Article word count OK: Essential The History of Ba Duan Jin Follow Along History Techniques You Should Know
+- ✓ Article word count OK: Essential Ba Duan Jin Follow Along History Techniques You Should Know
+- ✓ Article word count OK: Why Advanced Ba Duan Jin Follow Along History Techniques is Trending in 2026
+- ✓ Article word count OK: The Hidden Secrets of Advanced Ba Duan Jin Follow Along History Techniques
+- ✓ Article word count OK: Why Future of Ba Duan Jin Follow Along History is Trending in 2026
+- ✓ Article word count OK: Why Trending Ba Duan Jin Follow Along for Beginners is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Common Mistakes in Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: Trending Ba Duan Jin Follow Along 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Hidden Secrets of Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: Trending Ba Duan Jin Follow Along in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Article word count OK: Essential Future of Trending Ba Duan Jin Follow Along Techniques You Should Know
+- ✓ Article word count OK: The Ultimate Guide to Trending Ba Duan Jin Follow Along in 2026: Current Trends
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: The Best Resources for Common Mistakes in Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: Proven Strategies for Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: Why Trending Ba Duan Jin Follow Along is Trending in 2026
+- ✓ Article word count OK: Trending Ba Duan Jin Follow Along: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Unlock Your Trending Ba Duan Jin Follow Along in 2026: Current Trends Potential Now!
+- ✓ Article word count OK: What They Don't Tell You About Common Mistakes in Trending Ba Duan Jin Follow Along
+- ✓ Article word count OK: Mastering Trending Ba Duan Jin Follow Along for Beginners in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to Advanced Trending Ba Duan Jin Follow Along Techniques
+- ✓ Article word count OK: Why Future of Trending Ba Duan Jin Follow Along is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Ba Duan Jin Follow Along Tutorials
+- ✓ Article word count OK: Ba Duan Jin Follow Along Tutorials: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Ba Duan Jin Follow Along Tutorials Tips and Best Practices: From Beginner to Expert
+- ✓ Article word count OK: Everything You Need to Know About Ba Duan Jin Follow Along Tutorials
+- ✓ Article word count OK: The Hidden Secrets of Ba Duan Jin Follow Along Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Why Ba Duan Jin Follow Along Tutorials Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: The Ultimate Guide to Ba Duan Jin Follow Along Tutorials Tips and Best Practices
+- ✓ Article word count OK: The Ultimate Guide to Ba Duan Jin Follow Along Tutorials: Everything You Need to Know
+- ✓ Article word count OK: The Future of Ba Duan Jin Follow Along Tutorials: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Ba Duan Jin Follow Along Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ba Duan Jin Follow Along Tutorials: A Deep Dive
+- ✓ Article word count OK: Why You Need to Check Out Ba Duan Jin Follow Along Tutorials for Beginners
+- ✓ Article word count OK: Understanding Ba Duan Jin Follow Along Tutorials in 2026: Current Trends: A Deep Dive
+- ✓ Article word count OK: Mastering The History of Ba Duan Jin Follow Along Tutorials in Easy Steps
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Ba Duan Jin Follow Along Tutorials
+- ✓ Article word count OK: The Hidden Secrets of Ba Duan Jin Follow Along Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Advanced Ba Duan Jin Follow Along Tutorials Techniques: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Ba Duan Jin Follow Along Tutorials for Beginners: From Beginner to Expert
+- ✓ Ad configuration validated
